@@ -11,7 +11,7 @@ terraform {
     organization = "WillTest"
 
     workspaces {
-      name = "LocalWorkspace"
+      name = "LocalWorkspaceTest"
     }
   }
 }
