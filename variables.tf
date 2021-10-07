@@ -1,0 +1,3 @@
+variable "createAppService" {
+  type = bool
+}
